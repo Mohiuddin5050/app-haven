@@ -32,7 +32,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <Link to='/https://github.com/Mohiuddin5050' className="btn bg-purple-700 "><img src={vector} alt="" /><span className='text-white'>Contribute</span></Link>
+                <a href='https://github.com/Mohiuddin5050' target='_blank' className="btn bg-purple-700 "><img src={vector} alt="" /><span className='text-white'>Contribute</span></a>
             </div>
             </div>
         </div>
