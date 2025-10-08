@@ -5,7 +5,7 @@ import hero from "../assets/hero.png"
 
 const Home = () => {
     return (
-        <div>
+        <div className='py-10'>
             <div className='container mx-auto text-center'>
                 <h1 className='text-5xl'>
                     <span className='font-semibold'>We Build</span><br />
@@ -15,8 +15,8 @@ const Home = () => {
                 <p className='px-2 md:px-10 lg:px-40 text-gray-500 pt-5'>At AppHaven, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
 
                 <div className='my-4'>
-                    <button className='btn mr-2'><img src={playStore} alt="" /><span>Google Play</span></button>
-                    <button className='btn'><img src={appStore} alt="" /><span>App Store</span></button>
+                    <a href='https://play.google.com/store/apps' target='_blank' className='btn mr-2'><img src={playStore} alt="" /><span>Google Play</span></a>
+                    <a href='https://www.apple.com/app-store/' target='_blank' className='btn'><img src={appStore} alt="" /><span>App Store</span></a>
                 </div>
                 <div className='flex justify-center'>
                     <img className='' src={hero} alt="" />
