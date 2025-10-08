@@ -22,7 +22,7 @@ const Home = () => {
                     <img className='' src={hero} alt="" />
                 </div>
             </div>
-            <div className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] h-72 p-10'>
+            <div className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] p-10'>
                 <h1 className='text-white text-center text-3xl font-bold '>Trusted by Millions, Built for You</h1>
                 <div className='flex flex-col lg:flex-row justify-around p-5 gap-3 mb-'>
                     <div className='text-center text-white'>
