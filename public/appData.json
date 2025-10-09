@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/9131/9131529.png",
+    "title": "ChatEase",
+    "companyName": "PixelWorks",
+    "id": 1,
+    "description": "An AI-powered chat assistant that helps with writing, productivity, and planning.",
+    "size": 48,
+    "reviews": 15234,
+    "ratingAvg": 4.7,
+    "downloads": 1.2,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 10334 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/4696/4696925.png",
+    "title": "FitTrack Pro",
+    "companyName": "WellnessX",
+    "id": 2,
+    "description": "Track workouts, calories, and fitness goals with smart health analytics.",
+    "size": 63,
+    "reviews": 11200,
+    "ratingAvg": 4.5,
+    "downloads": 8.5,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 5900 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/7096/7096982.png",
+    "title": "TaskFlow",
+    "companyName": "NovaApps",
+    "id": 3,
+    "description": "Project management made easy with task lists, reminders, and progress charts.",
+    "size": 39,
+    "reviews": 9743,
+    "ratingAvg": 4.3,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3243 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/9213/9213115.png",
+    "title": "SnapStyle",
+    "companyName": "Visualix",
+    "id": 4,
+    "description": "AI photo editor that automatically enhances images and adds creative effects.",
+    "size": 72,
+    "reviews": 18000,
+    "ratingAvg": 4.8,
+    "downloads": 2.5,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 13700 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/864/864685.png",
+    "title": "LangMate",
+    "companyName": "GlobeSoft",
+    "id": 5,
+    "description": "Practice languages with real people through chat, voice, and mini-games.",
+    "size": 58,
+    "reviews": 20400,
+    "ratingAvg": 4.6,
+    "downloads": 1.8,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 12100 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/9791/9791884.png",
+    "title": "BudgetBuddy",
+    "companyName": "Finovate",
+    "id": 6,
+    "description": "Smart budgeting app to manage income, expenses, and savings goals.",
+    "size": 45,
+    "reviews": 8300,
+    "ratingAvg": 4.4,
+    "downloads": 5.6,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3800/3800024.png",
+    "title": "Musicly",
+    "companyName": "EchoVerse",
+    "id": 7,
+    "description": "Stream unlimited songs and discover personalized playlists curated by AI.",
+    "size": 80,
+    "reviews": 27890,
+    "ratingAvg": 4.7,
+    "downloads": 4.8,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 18390 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/724/724715.png",
+    "title": "NoteVault",
+    "companyName": "MindForge",
+    "id": 8,
+    "description": "Organize notes, ideas, and to-do lists with cloud sync and AI suggestions.",
+    "size": 37,
+    "reviews": 6000,
+    "ratingAvg": 4.2,
+    "downloads": 4.3,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/4472/4472510.png",
+    "title": "EduSmart",
+    "companyName": "LearnX",
+    "id": 9,
+    "description": "Interactive learning platform with video lessons and AI-powered tutors.",
+    "size": 90,
+    "reviews": 19200,
+    "ratingAvg": 4.5,
+    "downloads": 2.2,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 12200 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2702/2702069.png",
+    "title": "TravelGo",
+    "companyName": "SkyRoute",
+    "id": 10,
+    "description": "Plan your dream trips and find affordable hotels, flights, and tours.",
+    "size": 77,
+    "reviews": 17300,
+    "ratingAvg": 4.6,
+    "downloads": 1.9,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/9131/9131543.png",
+    "title": "GameSphere",
+    "companyName": "PlayMind Studio",
+    "id": 11,
+    "description": "Join tournaments, stream gameplay, and connect with global gamers.",
+    "size": 120,
+    "reviews": 35600,
+    "ratingAvg": 4.8,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 5800 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1048/1048949.png",
+    "title": "MindEase",
+    "companyName": "CalmWorks",
+    "id": 12,
+    "description": "Reduce anxiety and improve focus through meditation and breathing exercises.",
+    "size": 52,
+    "reviews": 13200,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 8400 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/590/590685.png",
+    "title": "CookIt",
+    "companyName": "KitchenLab",
+    "id": 13,
+    "description": "Discover new recipes and cook like a pro with step-by-step instructions.",
+    "size": 68,
+    "reviews": 11000,
+    "ratingAvg": 4.4,
+    "downloads": 7.5,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "title": "PhotoCraft",
+    "companyName": "LensArt",
+    "id": 14,
+    "description": "Create digital artwork, edit photos, and share your creativity online.",
+    "size": 84,
+    "reviews": 16200,
+    "ratingAvg": 4.5,
+    "downloads": 1.4,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 8400 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3580/3580370.png",
+    "title": "NewsNow",
+    "companyName": "DataStream Media",
+    "id": 15,
+    "description": "Get breaking news, weather updates, and trending global stories instantly.",
+    "size": 41,
+    "reviews": 9100,
+    "ratingAvg": 4.2,
+    "downloads": 6.7,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4100 }
+    ]
+  }
+]
