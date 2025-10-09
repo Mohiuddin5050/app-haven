@@ -3,6 +3,7 @@ import MainLayouts from "../Layouts/MainLayouts";
 import Home from "../Pages/Home";
 import Apps from "../Pages/Apps"
 import Installation from "../Pages/Installation"
+import DetailsCard from "../Pages/DetailsCard";
 
 
 const router = createBrowserRouter([
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
             path:'/installation',
             element:<Installation/>,
         },
+        {
+          path:'/detailsCard/:id',
+          element:<DetailsCard/>
+        }
     ]
   },
 ]);
