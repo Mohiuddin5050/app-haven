@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { ToastContainer, toast } from "react-toastify";
-// import "react-toastify/dist/ReactToastify.css";
+import "react-toastify/dist/ReactToastify.css";
 import downloadImg from '../assets/iconDownloads.png'
 import ratingsImg from '../assets/icon-ratings.png'
 
@@ -14,16 +14,17 @@ const Installation = () => {
     }, []);
 
     const handleUninstall = (id, title) => {
-        const updatedApps = installedApps.filter((app) => app.id !== id)
-        setInstalledApps(updatedApps);
-        localStorage.setItem("installedApps", JSON.stringify(updatedApps));
-       
-        
         toast.info(`${title} uninstalled successfully!`, {
             position: "top-right",
             autoClose: 2000,
             
         });
+        const updatedApps = installedApps.filter((app) => app.id !== id)
+        setInstalledApps(updatedApps);
+        localStorage.setItem("installedApps", JSON.stringify(updatedApps));
+       
+        
+        
     }
 
     const handleSort = (mode) => {
@@ -33,14 +34,6 @@ const Installation = () => {
         if (mode === "low-high") updatedApps.sort((a, b) => a.downloads - b.downloads);
         setInstalledApps(updatedApps);
     };
-
-    if (installedApps.length === 0) {
-        return (
-            <div>
-                <h1 className='text-center text-2xl font-bold py-10'>No installed apps found</h1>
-            </div>
-        )
-    }
 
     return (
         <div className="container mx-auto py-10">
@@ -61,7 +54,9 @@ const Installation = () => {
             </div>
             <div className='space-y-4 pt-5'>
                 {
-                    installedApps.map((app) => (
+                   installedApps.length===0?(
+                    <h1 className='text-center text-2xl font-bold py-10'>No installed apps found</h1>
+                   ): installedApps.map((app) => (
                         <div key={app.id} className='flex justify-between items-center shadow-sm border border-gray-200'>
                             <div className='flex items-center gap-5'>
                                 <div>

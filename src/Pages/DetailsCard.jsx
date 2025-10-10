@@ -50,7 +50,7 @@ const DetailsCard = () => {
 
     return (
         <div className='container mx-auto'>
-            <div className='flex gap-20 py-10 items-center'>
+            <div className='flex flex-col lg:flex-row gap-20 py-10 items-center'>
                 <img src={app.image} alt="" />
                 <div>
                     <div className='border-b border-gray-300 mb-2'>
@@ -97,7 +97,7 @@ const DetailsCard = () => {
                     </BarChart>
                 </ResponsiveContainer>
             </div>
-            <div className='pb-10'>
+            <div className='pb-10 p-2'>
                 <h2 className="text-2xl font-bold mb-4 pt-4">Description</h2>
                 <p>{app.description}</p>
             </div>

@@ -4,7 +4,7 @@ import Card from '../component/Card';
 import LoadingSpinner from '../component/LoadingSpinner';
 
 const Apps = () => {
-    const { apps, loading, error } = useApps()
+    const { apps, error } = useApps()
     const [search, setSearch] = useState('')
     const [filterApps, setFilterApps] = useState([])
     const [searchLoading, setSearchLoading] = useState(false)

@@ -8,9 +8,9 @@ import icon3 from "../assets/icon3.png"
 const Footer = () => {
     return (
         <div className='bg-[#001931]'>
-            <div className='container mx-auto flex justify-between items-center pt-10 border-b border-gray-700'>
+            <div className='container mx-auto flex flex-col md:flex-row justify-between items-center pt-10 border-b border-gray-700 gap-5'>
                 <div>
-                    <Link to='/' className="font-bold flex gap-2"><img className='h-8' src={logo} alt="" /><span className='text-white'>AppHaven</span></Link>
+                    <Link to='/' className="font-bold flex gap-2 items-center"><img className='h-8' src={logo} alt="" /><span className='text-white'>AppHaven</span></Link>
                 </div>
                 <div className='text-white '>
                     <h6 className="text-xl font-bold">Legal</h6>
