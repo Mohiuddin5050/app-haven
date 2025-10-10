@@ -6,7 +6,7 @@
     "companyName": "Vision Tech",
     "description": "Snapify lets you capture and edit photos with AI-powered filters and effects.",
     "size": 48,
-    "reviews": 3200,
+    "reviews": 3.2,
     "ratingAvg": 4.5,
     "downloads": 1.8,
     "ratings": [
@@ -24,7 +24,7 @@
     "companyName": "Wellness Co",
     "description": "Track your workouts, calories, and fitness goals with smart analytics.",
     "size": 36,
-    "reviews": 2500,
+    "reviews": 2.5,
     "ratingAvg": 4.2,
     "downloads": 9.5,
     "ratings": [
@@ -42,7 +42,7 @@
     "companyName": "Productify",
     "description": "Organize your daily tasks, set reminders, and stay productive.",
     "size": 25,
-    "reviews": 4100,
+    "reviews": 4.1,
     "ratingAvg": 4.7,
     "downloads": 2.3,
     "ratings": [
@@ -60,7 +60,7 @@
     "companyName": "CloudWrite",
     "description": "A modern note-taking app with real-time sync and markdown support.",
     "size": 30,
-    "reviews": 2800,
+    "reviews": 2.8,
     "ratingAvg": 4.4,
     "downloads": 1.1,
     "ratings": [
@@ -78,7 +78,7 @@
     "companyName": "Rhythm Media",
     "description": "Stream millions of songs, create playlists, and share with friends.",
     "size": 58,
-    "reviews": 9000,
+    "reviews": 9,
     "ratingAvg": 4.8,
     "downloads": 7.5,
     "ratings": [
@@ -96,7 +96,7 @@
     "companyName": "GoGreen Ltd",
     "description": "Book electric rides easily and track your carbon savings.",
     "size": 42,
-    "reviews": 1300,
+    "reviews": 1.3,
     "ratingAvg": 4.1,
     "downloads": 6.7,
     "ratings": [
@@ -114,7 +114,7 @@
     "companyName": "Kitchenly",
     "description": "Discover recipes, plan meals, and create grocery lists in one app.",
     "size": 50,
-    "reviews": 4700,
+    "reviews": 4.7,
     "ratingAvg": 4.6,
     "downloads": 2.1,
     "ratings": [
@@ -132,7 +132,7 @@
     "companyName": "RetailPro",
     "description": "Shop products from your favorite brands at unbeatable prices.",
     "size": 62,
-    "reviews": 5600,
+    "reviews": 5.6,
     "ratingAvg": 4.3,
     "downloads": 3.1,
     "ratings": [
@@ -150,7 +150,7 @@
     "companyName": "DevWorks",
     "description": "Interactive coding lessons and projects to level up your skills.",
     "size": 55,
-    "reviews": 6100,
+    "reviews": 6.1,
     "ratingAvg": 4.9,
     "downloads": 5,
     "ratings": [
@@ -168,7 +168,7 @@
     "companyName": "CalmNest",
     "description": "Relax, meditate, and improve your focus with guided sessions.",
     "size": 40,
-    "reviews": 2200,
+    "reviews": 2.2,
     "ratingAvg": 4.5,
     "downloads": 1.9,
     "ratings": [
@@ -186,7 +186,7 @@
     "companyName": "GlobeTrek",
     "description": "Plan trips, explore destinations, and manage travel itineraries.",
     "size": 53,
-    "reviews": 3700,
+    "reviews": 3.7,
     "ratingAvg": 4.4,
     "downloads": 2,
     "ratings": [
@@ -204,7 +204,7 @@
     "companyName": "InfoStream",
     "description": "Stay updated with real-time world news and personalized feeds.",
     "size": 37,
-    "reviews": 3300,
+    "reviews": 3.3,
     "ratingAvg": 4.2,
     "downloads": 1.2,
     "ratings": [
@@ -222,7 +222,7 @@
     "companyName": "MoneyMind",
     "description": "Manage budgets, track spending, and plan for your future.",
     "size": 44,
-    "reviews": 4100,
+    "reviews": 4.1,
     "ratingAvg": 4.6,
     "downloads": 2.7,
     "ratings": [
@@ -240,7 +240,7 @@
     "companyName": "Learnify",
     "description": "Online courses and quizzes to learn anything at your own pace.",
     "size": 60,
-    "reviews": 6800,
+    "reviews": 6.8,
     "ratingAvg": 4.8,
     "downloads": 6.4,
     "ratings": [
@@ -258,7 +258,7 @@
     "companyName": "PlayHub",
     "description": "Discover trending games, track leaderboards, and join tournaments.",
     "size": 80,
-    "reviews": 9200,
+    "reviews": 9.2,
     "ratingAvg": 4.7,
     "downloads": 9,
     "ratings": [
