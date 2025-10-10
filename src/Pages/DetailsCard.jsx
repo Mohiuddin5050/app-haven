@@ -31,7 +31,11 @@ const DetailsCard = () => {
     if (!app) return (
         <div className='container mx-auto pt-10'>
             <img className='mx-auto' src={appErrorImg} alt="" />
-            <p className='font-bold text-2xl py-5 text-center'>App not found</p>
+            <h1 className='font-bold text-2xl py-5 text-center'>OPPS!! APP NOT FOUND</h1>
+            <p className='text-center'>The App you are requesting is not found on our system.  please try another apps</p>
+            <div className='text-center pb-5'>
+                 <Link to="/" className="mt-4 inline-block bg-purple-600 text-white px-4 py-2 rounded">Go Home</Link>
+            </div>
         </div>
 
     )
