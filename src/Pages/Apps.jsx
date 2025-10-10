@@ -20,12 +20,9 @@ const Apps = () => {
         return () => clearTimeout(timeout);
     }, [search, apps])
 
-
-
-    // if (loading) return <LoadingSpinner />;
+ 
     if (error) return <p className="text-center text-red-500">Failed to load apps!</p>
-    // if (searchLoading) return <LoadingSpinner />
-
+   
     return (
         <div className='container mx-auto relative'>
             
