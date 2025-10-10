@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+// import "react-toastify/dist/ReactToastify.css";
 import downloadImg from '../assets/iconDownloads.png'
 import ratingsImg from '../assets/icon-ratings.png'
 
@@ -17,11 +17,12 @@ const Installation = () => {
         const updatedApps = installedApps.filter((app) => app.id !== id)
         setInstalledApps(updatedApps);
         localStorage.setItem("installedApps", JSON.stringify(updatedApps));
-
-
+       
+        
         toast.info(`${title} uninstalled successfully!`, {
             position: "top-right",
             autoClose: 2000,
+            
         });
     }
 

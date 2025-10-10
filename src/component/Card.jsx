@@ -12,9 +12,9 @@ const Card = ({app}) => {
                                     src={app.image}
                                     alt="Shoes" />
                             </figure>
-                            <div className="card-body">
-                                <h2 className="card-title">{app.title}</h2>
-                                <div className='flex justify-between items-center'>
+                            <div className="">
+                                <h2 className="card-title p-2">{app.title}</h2>
+                                <div className='flex justify-between items-center p-2'>
                                     <p className='flex items-center gap-1 p-1 rounded'>
                                         <img className='h-4' src={downloadIcon} alt="" />
                                         <span className='text-green-500'>{app.downloads}M</span>

@@ -10,7 +10,13 @@ const Footer = () => {
         <div className='bg-[#001931]'>
             <div className='container mx-auto flex justify-between items-center pt-10 border-b border-gray-700'>
                 <div>
-                    <Link to='/' className="font-bold flex gap-2"><img className='h-8' src={logo}alt="" /><span className='text-white'>AppHaven</span></Link>
+                    <Link to='/' className="font-bold flex gap-2"><img className='h-8' src={logo} alt="" /><span className='text-white'>AppHaven</span></Link>
+                </div>
+                <div className='text-white '>
+                    <h6 className="text-xl font-bold">Legal</h6>
+                    <p className="">Terms of use</p>
+                    <p className="">Privacy policy</p>
+                    <p className="">Cookie policy</p>
                 </div>
                 <div className=''>
                     <h4 className='text-white pb-2'>Social Links</h4>
@@ -18,10 +24,10 @@ const Footer = () => {
                         <img src={icon1} alt="" />
                         <img src={icon2} alt="" />
                         <img src={icon3} alt="" />
-                        </div>
+                    </div>
                 </div>
             </div>
-            <p className='text-white  text-center py-5'>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+            <p className='text-white  text-center py-5'>Copyright © {new Date().getFullYear()} - All right reserved by AppHaven Ltd</p>
         </div>
     );
 };

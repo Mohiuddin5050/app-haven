@@ -5,9 +5,18 @@ import hero from "../assets/hero.png"
 import useApps from '../hooks/useApps'
 import { Link } from 'react-router';
 import Card from '../component/Card';
+import LoadingSpinner from '../component/LoadingSpinner';
 
 const Home = () => {
-    const { apps, loading, error } = useApps()
+    const { apps, loading } = useApps();
+    if (loading){
+        return (
+             <div className="fixed inset-0 flex items-center justify-center bg-white z-50">
+                <LoadingSpinner/>
+             </div>
+             
+        );
+    }
 
     const featuredApps = apps.slice(0, 8)
     return (
